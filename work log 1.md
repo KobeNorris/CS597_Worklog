@@ -2,9 +2,15 @@
 
 ## Time Period
 
-* Jan 30th 2023 -  Feb 2nd 2023
+* Jan 30th 2023 -  Feb 5th 2023
 
-## Worklog (10.5 hours)
+## Worklog (12.5 hours)
+
+* Meeting:
+    
+    * Monday Meeting (1 Hour): Progress check and project discussion.
+
+    * Sunday offline Meeting (1 Hour): Progress checking, project assignment and problem solving.
 
 * Summary
 
