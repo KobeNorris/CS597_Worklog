@@ -19,6 +19,7 @@
         * Time Spent: 2 Hours
         * Generate Test Reports using JaCoCo
         * Test and Improve Deploy Script
+        * Generated Deployment Method
 
     * Microservices-dem [v2.1.1](https://github.com/paulc4/microservices-demo/releases/tag/v1.0.0)
 
@@ -26,8 +27,10 @@
         * Debug Test Failures
         * Generate Test Reports using JaCoCo
         * Test and successfully deploy the project on Docker (the origianl Docker image is Deprecated)
+        * Generated Deployment Method
 
     * microservice-fuzzing [main](https://github.com/Intelligent-CAT-Lab/microservice-fuzzing)
 
         * Time Spent: 1 Hours
         * Investigating Interatctive Graph Generator
+        * Generated Deployment Method
