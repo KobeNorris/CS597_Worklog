@@ -4,7 +4,7 @@
 
 * Feb 20th 2023 -  Feb 26th 2023
 
-## Worklog (14 hours 30 Mins)
+## Worklog (16 hours 30 Mins)
 
 * Summary
 
@@ -67,3 +67,11 @@
         * Date: Feb 23th 7:00 - 7:30
         * Description: 
             * Discussed and Assigned codeQL task for the rest of the week:
+
+    * Investigate Jacoco
+
+        * Time Spent: 2 Hours
+        * Date: Feb 24th 9:00 - 11:00
+        * Description: 
+            * Investigate Jacoco Java Agent
+            * Investigate Jacoco CLI
