@@ -4,7 +4,7 @@
 
 * Feb 27th 2023 -  Mar 5th 2023
 
-## Worklog (8 hours)
+## Worklog (10 hours 30 mins)
 
 * Summary
 
@@ -22,6 +22,7 @@
                 * Prepare for Wednesday demo to IBM founders
             * This week's Task:
                 * Continue Investigating Jacoco Java Agent
+                * Further investigate day trader project. 
 
     * Deploy Day Trader and update subjects submodules:
 
@@ -37,7 +38,7 @@
     * Generate Test Coverage report for Pet Clinic:
 
         * Time Spent: 4 Hours 30 Mins
-        * Date: Feb 28th 7:00 - 11:30
+        * Date: Mar 2nd 7:00 - 11:30
         * Description:
             * Set up each service of pet clinic with Jacoco Java Agent and run the Integration code
             * Debug integration code
@@ -45,6 +46,12 @@
             * Verify the Test Coverage report by diving into source code implementation
             * Update the readme file for Pet Clinic
 
-    * Try to generate Test Coverage report for Day Trader:
+    * Try to generate Test Coverage report for microservices demo:
 
-        * 
+        * Time Spent: 2 Hours 30 Mins
+        * Date: Mar 3rd 8:00 - 10:30
+        * Description:
+            * Set up each service of microservices demo with Jacoco Java Agent and run the Integration code
+            * Generated Test Coverage report
+            * Verify the Test Coverage report by diving into source code implementation
+            * Update the readme file for microservices demo
