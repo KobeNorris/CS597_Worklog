@@ -27,7 +27,7 @@
         * Rewrite the request mapping interface in controller files to grab all incoming `POST` requests' `JSON` parameters
         * Test and verify the output loggings
 
-    * Task 2: Investigating `resulter fuzzer` codebase (6 Hours):
+    * Task 2: Investigating `resulter fuzzer` codebase [To find code generate parameters] (6 Hours):
 
         * Try to continue searching through `restler.py` and `request.py`
             * Read thourgh `request.py`
@@ -37,7 +37,3 @@
             * From log files, search for `restler_static_string`
             * Investigate grammar relative generated files
         * Try to search for `primitive.py`
-
-    * Task 3: Investigating `dependency.json`:
-
-        * 
