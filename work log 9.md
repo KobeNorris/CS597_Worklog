@@ -2,7 +2,7 @@
 
 ## Time Period
 
-* Mar 27th 2023 - Apr 2th 2023
+* Mar 27th 2023 - Apr 2nd 2023
 
 ## Worklog (14 hours)
 
