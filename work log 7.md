@@ -36,7 +36,7 @@
                 * 783 - `get_all_example_schemas`
                     * No caller
 
-        * Try to trace the function parameter using Logger (3 Hours):
+        * Try to get the calling stack path of `param_combinations.py` to obtain the param generator (3 Hours):
 
             1. Deploy `ftgo-application` locally on Windows
                 * `.NET 6.0` is incompatible with windows processor
